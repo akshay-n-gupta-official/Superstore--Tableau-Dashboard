@@ -1,4 +1,4 @@
-# Tableau - Superstore_Dashboard:
+# Superstore--Tableau-Dashboard
 
 **Developed a comprehensive dashboard analyzing revenue, quantity, and profit metrics across diverse retail environments. Provided insights on regions, categories, subcategories, and ship modes.**
 
